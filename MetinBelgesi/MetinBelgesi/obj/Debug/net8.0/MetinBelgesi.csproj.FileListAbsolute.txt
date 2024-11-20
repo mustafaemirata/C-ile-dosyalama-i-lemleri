@@ -1,0 +1,14 @@
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\bin\Debug\net8.0\MetinBelgesi.exe
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\bin\Debug\net8.0\MetinBelgesi.deps.json
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\bin\Debug\net8.0\MetinBelgesi.runtimeconfig.json
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\bin\Debug\net8.0\MetinBelgesi.dll
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\bin\Debug\net8.0\MetinBelgesi.pdb
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\obj\Debug\net8.0\MetinBelgesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\obj\Debug\net8.0\MetinBelgesi.AssemblyInfoInputs.cache
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\obj\Debug\net8.0\MetinBelgesi.AssemblyInfo.cs
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\obj\Debug\net8.0\MetinBelgesi.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\obj\Debug\net8.0\MetinBelgesi.dll
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\obj\Debug\net8.0\refint\MetinBelgesi.dll
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\obj\Debug\net8.0\MetinBelgesi.pdb
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\obj\Debug\net8.0\MetinBelgesi.genruntimeconfig.cache
+C:\Users\Emir\source\repos\MetinBelgesi\MetinBelgesi\obj\Debug\net8.0\ref\MetinBelgesi.dll
